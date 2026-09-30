@@ -47,7 +47,7 @@ The dataset `employee_performance.csv` contains the following fields:
 #### Step 2: Probability & Events
 * Evaluated overall promotional probability $P(\text{Promotion} = \text{'Yes'})$.
 * Constructed a Contingency Table comparing **Department** vs. **PromotionStatus**.
-* Computed Conditional Probability $P(\text{Promotion} \mid \text{Performance\_Score} > 80)$.
+* Computed Conditional Probability $P(\text{Promotion} \mid \text{Performance\Score} > 80)$.
 
 #### Step 3: Distributions & Visualization
 * Plotted a **Histogram** of `Performance_Score` overlayed with a fitted Gaussian (Normal) curve.
